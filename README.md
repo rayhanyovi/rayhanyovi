@@ -10,7 +10,7 @@
   <a href="https://github.com/rayhanyovi">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?logo=github&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=USERNAME&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=rayhanyovi&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
