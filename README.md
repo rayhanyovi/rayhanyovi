@@ -37,8 +37,8 @@
 - **Synapse UI** — Accessibility-focused component library
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_title=true&include_all_commits=true&count_private=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rayhanyovi&show_icons=true&hide_title=true&include_all_commits=true&count_private=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=rayhanyovi" />
 </p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rayhanyovi&hide_border=true" />
