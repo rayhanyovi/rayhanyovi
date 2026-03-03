@@ -30,14 +30,9 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
 </p>
 
-### Featured Projects
-- **Kitchain** — Restaurant operations SaaS (inventory, ordering via QR, roles)
-- **Vocalize** — Real-time voice-to-text / translation (low-latency streaming)
-- **DashFrame** — Analytics dashboard for e-commerce sellers
-- **Synapse UI** — Accessibility-focused component library
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rayhanyovi&show_icons=true&hide_title=true&include_all_commits=true&count_private=true" />
+  <!-- <img height="165" src="https://github-readme-stats.vercel.app/api?username=rayhanyovi&show_icons=true&hide_title=true&include_all_commits=true&count_private=true" /> -->
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=rayhanyovi" />
 </p>
 
