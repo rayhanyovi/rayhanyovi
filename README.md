@@ -4,10 +4,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mraihanyofi/">
+  <a href="https://www.linkedin.com/in/rayhanyovi/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/USERNAME">
+  <a href="https://github.com/rayhanyovi">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?logo=github&logoColor=white" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=USERNAME&label=Profile%20views&color=0e75b6&style=flat" />
