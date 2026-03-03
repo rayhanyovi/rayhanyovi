@@ -1,16 +1,44 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Yovi 👋</h1>
+<p align="center">
+  Frontend Engineer • React/Next.js • Building products & experiments
+</p>
 
-<!--
-**rayhanyovi/rayhanyovi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://www.linkedin.com/in/mraihanyofi/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?logo=github&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=USERNAME&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About
+- 🧠 Frontend Engineer focusing on **React / Next.js**
+- 🔭 Currently building: **Kitchain** (restaurant ops SaaS)
+- 🧩 Interested in: UI architecture, state patterns, performance, design systems
+
+### Tech Stack
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+</p>
+
+### Featured Projects
+- **Kitchain** — Restaurant operations SaaS (inventory, ordering via QR, roles)
+- **Vocalize** — Real-time voice-to-text / translation (low-latency streaming)
+- **DashFrame** — Analytics dashboard for e-commerce sellers
+- **Synapse UI** — Accessibility-focused component library
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_title=true&include_all_commits=true&count_private=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME" />
+</p>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&hide_border=true" />
