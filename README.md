@@ -64,6 +64,8 @@ I care about **usefulness over cleverness**: building things people actually use
 
 > Most work lives in private repos from my time at Alner (1000+ commits across 4 production platforms). Happy to walk through it in an interview.
 
+> I got some intereseting projects on my Pinned. Check it out!
+
 ---
 
 ## 🏢 Latest Work Highlights
