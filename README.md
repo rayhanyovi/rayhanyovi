@@ -61,13 +61,12 @@ I care about **usefulness over cleverness**: building things people actually use
 | **E-Commerce Engine** | Next.js · Prisma · Vitest · Playwright | Reusable commerce core, white-label-ready with test coverage |
 | **Schoolio** | Next.js · Prisma · PostgreSQL | Open-source, self-hostable school ops with RBAC |
 | **Blocksmith** | React · TipTap · Yjs · Hocuspocus | Modular collaborative editor — package-boundary architecture |
-| **Lingo-Flip** | Next.js · Gemini API | Multilingual content translator that preserves HTML structure |
 
 > Most work lives in private repos from my time at Alner (1000+ commits across 4 production platforms). Happy to walk through it in an interview.
 
 ---
 
-## 🏢 Work Highlights
+## 🏢 Latest Work Highlights
 
 **Sr. Frontend Engineer @ Alner Tech** *(2024–2026)*
 > FMCG sustainability startup · 3-person IT team · 4 production platforms · sole FE
