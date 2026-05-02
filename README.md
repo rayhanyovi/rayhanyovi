@@ -1,27 +1,35 @@
-<div align="center">
+<table width="100%">
+  <tr>
+    <td align="left" width="60%" valign="middle">
 
-<div>
-# Hey, I'm Yovi 👋
-### Frontend-Led Full-Stack Engineer · Jakarta, ID
+<h1>Hey, I'm Yovi 👋</h1>
 
-*Building products end-to-end — from Figma to production, without a PM or QA in the way*
+<h3>Frontend-Led Full-Stack Engineer · Jakarta, ID</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mrayhanyovi)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://rayhanyovi.vercel.app)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:yovihan@gmail.com)
+<p>
+  <em>Building products end-to-end — from Figma to production, without a PM or QA in the way</em>
+</p>
 
-</div>
+<p>
+  <a href="https://linkedin.com/in/mrayhanyovi">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://rayhanyovi.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:yovihan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-<div align="center">
+</td>
+<td align="right" width="40%" valign="middle">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=rayhanyovi&theme=whatsapp-dark&hide_longest_streak=true&hide_border=true)
+<img src="https://streak-stats.demolab.com?user=rayhanyovi&theme=whatsapp-dark&hide_longest_streak=true&hide_border=true" alt="GitHub Streak" />
 
-</div>
-
-
-
-</div>
-
+</td>
+  </tr>
+</table>
 ---
 
 ## 🧑‍💻 About Me
