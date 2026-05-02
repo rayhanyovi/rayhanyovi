@@ -15,14 +15,14 @@
 
 ## 🧑‍💻 About Me
 
-I'm a software engineer with **3 years of experience** (2 FT + 1 intern), specialising in React/Next.js with a designer's eye and a product-minded approach. At my last company I was the **sole frontend engineer** across 4 production platforms — no QA, no PM, no designer — which forced me to own everything from UX decisions to stakeholder communication.
+I'm a software engineer with **3 years of experience** (2 FT + 1 intern), specialising in React/Next.js with a designer's eye and a product-minded approach. At my last company I was the **sole frontend engineer** across 4 production platforms (no QA, no PM, no designer) which forced me to own everything from UX decisions to stakeholder communication.
 
-I care about **usefulness over cleverness**: building things people actually use, shipping fast, and iterating based on real feedback. I use AI tools (Claude Code, Codex) as daily drivers and I'm upfront about it — it's part of how modern engineers work.
+I care about **usefulness over cleverness**: building things people actually use, shipping fast, and iterating based on real feedback. I use AI tools (Claude Code, Codex) as daily drivers and I'm upfront about it because IMO it's part of how modern engineers work.
 
 - 🏗️ **Currently:** Open to Frontend / Fullstack / Product Engineer roles
 - 🌍 **Preference:** International remote (US/EU/SG) or Jakarta-based product startups
 - 📦 **Stack I live in:** TypeScript · Next.js · React · Node.js · Prisma · PostgreSQL
-- 🎓 **BSc Informatika** — Universitas Gunadarma, 2024 (GPA 3.54)
+- 🎓 **BSc Informatika** from Universitas Gunadarma, 2024 (GPA 3.54)
 
 ---
 
@@ -103,7 +103,7 @@ Lean-team-ready   ──► 3-person IT team taught me to move fast with high ow
 
 ## 📫 Let's Talk
 
-If you're building something with React/Next.js, need a frontend engineer who can own a product surface end-to-end, or just want to talk shop — reach out.
+If you're building something with React/Next.js, need a frontend engineer who can own a product surface end-to-end, or just want to talk, don't hesitate to reach me out.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mrayhanyovi)
 [![Email](https://img.shields.io/badge/yovihan@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:yovihan@gmail.com)
