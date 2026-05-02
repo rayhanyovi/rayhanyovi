@@ -68,7 +68,7 @@ I care about **usefulness over cleverness**: building things people actually use
 
 ## 🏢 Latest Work Highlights
 
-**Sr. Frontend Engineer @ Alner Tech** *(2024–2026)*
+**Sr. Frontend Engineer @ Alner ** *(2024–2026)*
 > FMCG sustainability startup · 3-person IT team · 4 production platforms · sole FE
 
 - **Shop** (Next.js) — 300–1k MAU e-commerce; return-bottle flow redesigned to eliminate fraud claims
