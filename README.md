@@ -85,7 +85,7 @@ I care about **usefulness over cleverness**: building things people actually use
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=rayhanyovi&theme=github-dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=rayhanyovi&theme=shadow-green&hide_border=true)
 
 </div>
 
