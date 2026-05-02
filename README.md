@@ -1,16 +1,19 @@
-<table width="100%">
-  <tr>
-    <td align="left" width="60%" valign="middle">
+<h1 align="center">Hello there! I'm Yovi 👋</h1>
 
-<h1>Hey, I'm Yovi 👋</h1>
+<img 
+  align="right" 
+  width="390" 
+  src="https://streak-stats.demolab.com?user=rayhanyovi&theme=whatsapp-dark&hide_longest_streak=true&hide_border=true" 
+  alt="GitHub Streak" 
+/>
 
-<h3>Frontend-Led Full-Stack Engineer · Jakarta, ID</h3>
+<h3 align="left">Frontend-Led Full-Stack Engineer · Jakarta, ID</h3>
 
-<p>
-  <em>Building products end-to-end — from Figma to production, without a PM or QA in the way</em>
+<p align="left">
+  <em>I build thoughtful web products from interface design to production-ready systems.</em>
 </p>
 
-<p>
+<p align="left">
   <a href="https://linkedin.com/in/mrayhanyovi">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -22,15 +25,7 @@
   </a>
 </p>
 
-</td>
-<td align="right" width="40%" valign="middle">
-
-<img src="https://streak-stats.demolab.com?user=rayhanyovi&theme=whatsapp-dark&hide_longest_streak=true&hide_border=true" alt="GitHub Streak" />
-
-</td>
-  </tr>
-</table>
----
+<br clear="right" />
 
 ## 🧑‍💻 About Me
 
