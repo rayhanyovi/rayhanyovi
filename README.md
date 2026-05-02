@@ -1,4 +1,4 @@
-<h1 align="center">Hello there! I'm Yovi 👋</h1>
+
 
 <img 
   align="right" 
@@ -7,7 +7,9 @@
   alt="GitHub Streak" 
 />
 
-<h3 align="left">Frontend-Led Full-Stack Engineer · Jakarta, ID</h3>
+<h3 align="left">Hello there! I'm Yovi 👋</h3>
+
+<h4 align="left">Frontend-Led Full-Stack Engineer · Jakarta, ID</h4>
 
 <p align="left">
   <em>I build thoughtful web products from interface design to production-ready systems.</em>
@@ -26,6 +28,7 @@
 </p>
 
 <br clear="right" />
+
 
 ## 🧑‍💻 About Me
 
