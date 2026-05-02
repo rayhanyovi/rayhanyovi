@@ -57,10 +57,10 @@ I care about **usefulness over cleverness**: building things people actually use
 
 | Project | Stack | What it is |
 |---|---|---|
-| [**Kitchain**](https://github.com/rayhanyovi/kitchain) | Next.js · Prisma · Supabase · Docker | Restaurant ops platform — dual-mode self-host / SaaS |
-| **E-Commerce Engine** | Next.js · Prisma · Vitest · Playwright | Reusable commerce core, white-label-ready with test coverage |
-| **Schoolio** | Next.js · Prisma · PostgreSQL | Open-source, self-hostable school ops with RBAC |
-| **Blocksmith** | React · TipTap · Yjs · Hocuspocus | Modular collaborative editor — package-boundary architecture |
+| [**Kitchain**](https://kitchain-seven.vercel.app) | Next.js · Prisma · Supabase · Docker | Restaurant ops platform — dual-mode self-host / SaaS |
+| [**Schoolio**](https://github.com/rayhanyovi/shoolio-sekolah-pintar)  | Next.js · Prisma · PostgreSQL | Open-source, self-hostable school ops with RBAC |
+| [**E-Commerce Engine**](https://github.com/rayhanyovi/e-commerce-engine)  | Next.js · Prisma · Vitest · Playwright | Reusable commerce core, white-label-ready with test coverage |
+| [**Blocksmith**](https://github.com/rayhanyovi/blocksmith-blockbased-editor)  | React · TipTap · Yjs · Hocuspocus | Modular collaborative editor — package-boundary architecture |
 
 > Most work lives in private repos from my time at Alner (1000+ commits across 4 production platforms). Happy to walk through it in an interview.
 
