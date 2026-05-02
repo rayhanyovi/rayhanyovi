@@ -95,16 +95,6 @@ I care about **usefulness over cleverness**: building things people actually use
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=rayhanyovi&theme=whatsapp-dark&hide_longest_streak=true&hide_border=true)
-
-</div>
-
----
-
 ## 🎯 How I Work
 
 ```
