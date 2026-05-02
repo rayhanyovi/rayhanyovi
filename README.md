@@ -1,5 +1,6 @@
 <div align="center">
 
+<div>
 # Hey, I'm Yovi 👋
 ### Frontend-Led Full-Stack Engineer · Jakarta, ID
 
@@ -8,6 +9,16 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mrayhanyovi)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://rayhanyovi.vercel.app)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:yovihan@gmail.com)
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=rayhanyovi&theme=whatsapp-dark&hide_longest_streak=true&hide_border=true)
+
+</div>
+
+
 
 </div>
 
