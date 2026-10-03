@@ -32,7 +32,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a software engineer with **3 years of experience** (2 FT + 1 intern), specialising in React/Next.js with a designer's eye and a product-minded approach. At my last company I was the **sole frontend engineer** across 4 production platforms (no QA, no PM, no designer) which forced me to own everything from UX decisions to stakeholder communication.
+I'm a software engineer with **4 years of experience** (3 FT + 1 intern), specialising in React/Next.js with a designer's eye and a product-minded approach. At my last company I was the **sole frontend engineer** across 4 production platforms (no QA, no PM, no designer) which forced me to own everything from UX decisions to stakeholder communication.
 
 I care about **usefulness over cleverness**: building things people actually use, shipping fast, and iterating based on real feedback. I use AI tools (Claude Code, Codex) as daily drivers and I'm upfront about it because IMO it's part of how modern engineers work. But I'm not a typical Vibe Coder who never touch code before haha. I used to code manually until AI is powerful enough to handle the code for me so I can focus on designing the system and flow.
 
